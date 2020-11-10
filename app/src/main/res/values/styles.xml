@@ -1,0 +1,19 @@
+<resources>
+    <!-- TEMA: COLORES PRIMARIOS DE LA APLICACION -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- TEMA GENERAL DE LA APLICACION -->
+    <style name="estilos" parent="AppTheme" >
+        <item name="android:drawableTint">@color/colorWhite</item>
+        <item name="android:drawablePadding">15dp</item>
+        <item name="android:hint">@color/colorWhite</item>
+        <item name="android:textColorHint">@color/colorWhite</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+</resources>

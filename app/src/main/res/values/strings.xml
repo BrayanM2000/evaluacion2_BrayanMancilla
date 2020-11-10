@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Empresas PAMA</string>
+    <string name="aun_no_tienes_cuenta">¿aun no tienes cuenta? REGISTRATE!</string>
+    <string name="login_password">PASSWORD</string>
+    <string name="login_correo">CORREO</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="nombre_usuario_CrearCuenta">Nombre usuario</string>
+    <string name="email_CrearCuenta">Email</string>
+    <string name="password_CrearCuenta">PASSWORD</string>
+    <string name="repetir_contraseña_CrearCuenta">Repetir contraseña</string>
+    <string name="registrarse_CrearCuenta">REGISTRARSE</string>
+    <string name="volver_CrearCuenta">Volver</string>
+    <string name="nuestros_productos_HOME">NUESTROS PRODUCTOS</string>
+    <string name="oferta_1_399_990_HOME">OFERTA-$1.399.990.-</string>
+    <string name="comprar_HOME">COMPRAR</string>
+    <string name="oferta_1_499_990_HOME">OFERTA-$1.499.990</string>
+    <string name="comprar2__HOME">COMPRAR</string>
+</resources>
